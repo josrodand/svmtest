@@ -1,4 +1,2 @@
 
 print("hola mundo")
-
-# ghola
